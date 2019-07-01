@@ -1,0 +1,7 @@
+﻿  Image Highboosting.cpp
+c:\d-325gb\research code\image enhancement\image highboost\image highboosting\image highboosting\image highboosting.cpp(41): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+c:\d-325gb\research code\image enhancement\image highboost\image highboosting\image highboosting\image highboosting.cpp(96): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+c:\d-325gb\research code\image enhancement\image highboost\image highboosting\image highboosting\image highboosting.cpp(116): warning C4244: 'initializing': conversion from 'double' to 'int', possible loss of data
+c:\d-325gb\research code\image enhancement\image highboost\image highboosting\image highboosting\image highboosting.cpp(125): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+  Image Highboosting.vcxproj -> C:\D-325GB\RESEARCH CODE\Image Enhancement\Image Highboost\Image Highboosting\x64\Debug\Image Highboosting.exe
+  Image Highboosting.vcxproj -> C:\D-325GB\RESEARCH CODE\Image Enhancement\Image Highboost\Image Highboosting\x64\Debug\Image Highboosting.pdb (Full PDB)
